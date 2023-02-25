@@ -12,12 +12,13 @@
 <br/><br/>
 
 <h1 align="center"><b>More about me:</b></h1>
-<h2>
-👨‍🎓 I'm a Computer Science student **3/8**<br>
- 🌱 I’m currently learning **C language**<br>
- 👯 I’m looking to collaborate on **open source projects**<br>
- 🤝 I’m looking for help with **C language**<br>
- 💬 Ask me about **Java and Python**</h2>
+<h2><b>
+👨‍🎓 I'm a Computer Science student 3/8<br>
+ 🌱 I’m currently learning C language<br>
+ 👯 I’m looking to collaborate on open source projects<br>
+ 🤝 I’m looking for help with C language<br>
+ 💬 Ask me about Java and Python</b>
+</h2>
 <br/>
 
 <h1 align="left">
