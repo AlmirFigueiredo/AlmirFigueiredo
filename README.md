@@ -1,21 +1,19 @@
-
-<body>
-
-<h1 align="center"><b>Hello, I'm Jose Almir!</b></h1>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left"  height="150" width="405" src="https://github-readme-stats.vercel.app/api?username=AlmirFigueiredo&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="" height="149" width="405"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirFigueiredo" />
-</a>
+<div style="text-align:center;">
+  <h1><b>Hello, I'm Jose Almir!</b></h1>
+</div>
+<div style="text-align:center;">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmirFigueiredo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirFigueiredo&layout=compact&langs_count=7&theme=algolia"/>
+  </a>
+</div>
 <br/><br/>
 
 <h1 align="center"><b>More about me:</b></h1>
 <h2><b>
 👨‍🎓 I'm a Computer Science student 3/8<br>
  🌱 I’m currently learning C++ language<br>
- 👯 I’m looking to collaborate on open source projects<br>
+ 👾 I’m looking to collaborate on open source projects<br>
  🤝 I’m looking for help with C++ language<br>
  💬 Ask me about Java and Python</b>
 </h2>
