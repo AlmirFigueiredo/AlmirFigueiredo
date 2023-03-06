@@ -1,10 +1,4 @@
-<div style="text-align:center;">
-  <h1><b>Hello, I'm Jose Almir!</b></h1>
-</div>
-<div style="text-align:center;">
-
-</div>
-<br/><br/>
+<h1 align="center"><b>Hello, I'm Jose Almir!</b></h1>
 <h2><b>
 👨‍🎓 I'm a Computer Science student 3/8<br>
  🌱 I’m currently learning C++ language<br>
