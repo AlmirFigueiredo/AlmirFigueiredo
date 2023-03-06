@@ -2,11 +2,11 @@
 <b>Hello, I'm Jose Almir!</b>
 </h1>
 <h2><b>
-👨‍🎓 I'm a Computer Science student 3/8<br>
-🎯 I'm putting all my effort to learn important concepts about programming<br>
-🧩 I'm currently solving problems in c++, to gain more knowledge about the language<br>
-👾 I’m looking to collaborate on open source projects<br>
-💻 I usually code in Java/Python/C++<br></b>
+👨‍🎓 I'm a Computer Science student 3/8.<br>
+🎯 I'm putting all my effort to learn important concepts about programming.<br>
+🧩 I'm currently solving problems in c++, to gain more knowledge about the language.<br>
+👾 I’m looking to collaborate on open source projects.<br>
+💻 I usually code in Java/Python/C++.<br></b>
 </h2>
 <h1 align="left">
 <b>Programming Languages</b>
@@ -16,7 +16,6 @@
 <b>Tools</b>
 </h1>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=whit" alt="shellscript"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
-<br></br>
 <h1 align="left">
 <b>Connect with me</b>
 </h1>
