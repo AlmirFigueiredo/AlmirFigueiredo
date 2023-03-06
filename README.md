@@ -4,17 +4,14 @@
 <h2><b>
 👨‍🎓 I'm a Computer Science student 3/8<br>
 🎯 I'm putting all my effort to learn important concepts about programming<br>
-🧩 I'm currently solving many problems in c++, to gain more knowledge about the language<br>
+🧩 I'm currently solving problems in c++, to gain more knowledge about the language<br>
 👾 I’m looking to collaborate on open source projects<br>
 💻 I usually code in Java/Python/C++<br></b>
 </h2>
-<br></br>
 <h1 align="left">
 <b>Programming Languages</b>
 </h1>
 <p align="left"> <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a> </p>
-<br/>
-
 <h1 align="left">
 <b>Tools</b>
 </h1>
