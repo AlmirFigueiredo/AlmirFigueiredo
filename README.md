@@ -12,7 +12,7 @@
 <b>Programming Languages</b>
 </h2>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmirFigueiredo&layout=compact" width="235" alt="toplanguages"/></p>
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlmirFigueiredo&layout=compact" width="235" alt="toplanguages"/></p>
 
 <h2 align="left">
 <b>Tools</b>
