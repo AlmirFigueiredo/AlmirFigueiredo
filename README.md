@@ -3,7 +3,7 @@
 </h2>
 <h3>
 👨‍🎓 I'm a Computer Science student 3/8.<br>
-🎯 I'm putting all my effort to learn important concepts about programming.<br>
+🎯 I'm putting all my effort to learn important concepts about cloud computing.<br>
 🧩 I'm solving problems in c++, to gain more knowledge about the language.<br>
 👾 I’m looking to collaborate on open source projects.<br>
 💻 I usually code in Java/Python/C++.<br>
