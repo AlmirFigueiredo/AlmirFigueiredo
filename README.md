@@ -3,8 +3,8 @@
 </h2>
 <h3>
 👨‍🎓 I'm a Computer Science student 3/8.<br>
-🎯 I'm putting all my effort to learn web development.<br>
-🧩 I'm solving problems in Python, to gain more knowledge about the language.<br>
+🎯 I'm putting all my effort to learn Web development.<br>
+🧩 I'm creating a small web project, to put it into pratice.<br>
 👾 I’m looking to collaborate on open source projects.<br>
 💻 I usually code in Java and Python.<br>
 </h3>
