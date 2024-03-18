@@ -2,7 +2,7 @@
 <b>Hello, I'm Jose Almir!</b>
 </h2>
 <h3>
-👨‍🎓 I'm a Computer Science student 4/8.<br>
+👨‍🎓 I'm a Computer Science student 5/8.<br>
 🎯 I'm putting all my effort into learning fundamental concepts of data analytics.<br>
 </h3>
 <h2 align="left">
