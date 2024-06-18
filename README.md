@@ -3,7 +3,7 @@
 </h2>
 <h3>
 👨‍🎓 I'm a Computer Science student 5/8.<br>
-🎯 I'm putting all my effort into learning fundamental concepts of data analytics.<br>
+🎯 I'm putting all my effort into learning fundamental concepts.<br>
 </h3>
 <h2 align="left">
 <b>Programming Languages</b>
