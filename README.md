@@ -2,8 +2,7 @@
 <b>Hello, I'm Jose Almir!</b>
 </h2>
 <h3>
-👨‍🎓 I'm a Computer Science student 6/8.<br>
-🎯 I'm putting all my effort into learning fundamental concepts.<br>
+In my work time, I analyze data. In my free time, I’m plumbing it.
 </h3>
 <h2 align="left">
 <b>Programming Languages</b>
