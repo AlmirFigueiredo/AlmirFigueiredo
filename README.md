@@ -2,7 +2,7 @@
 <b>Hello, I'm Jose Almir!</b>
 </h2>
 <h3>
-In my work time, I analyze data. In my free time, I’m plumbing it.
+In my work time, I build software. In my free time, I’m plumbing data.
 </h3>
 <h2 align="left">
 <b>Programming Languages</b>
