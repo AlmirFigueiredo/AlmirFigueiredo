@@ -1,20 +1,33 @@
-<h2 align="center">
-<b>Hello, I'm Jose Almir!</b>
-</h2>
-<h3>
-In my work time, I build software. In my free time, I’m plumbing data.
-</h3>
-<h2 align="left">
-<b>Programming Languages</b>
-</h2>
+# 👨‍💻 Hi there, I'm Jose Almir!
 
-<p Typescript, Python and Java/></p>
+I'm a Computer Science undergrad and currently working as a Software Engineer, I like to study Data Engineer field.
 
-<h2 align="left">
-<b>Tools</b>
-</h2>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=whit" alt="shellscript"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
-<h2 align="left">
-<b>Connect with me</b>
-</h2>
-<p align="left"> <a href="https://www.linkedin.com/in/jos%C3%A9-almir-figueiredo-4642861b3/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> <a href="https://leetcode.com/AlmirF/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/></a> <a href="https://www.hackerrank.com/joseamfj" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
+I value simplicity, consistency, and purpose — both in code and in life.
+
+---
+
+## ⚡ What I Do
+
+- 💻 Develop RESTful APIs with **TypeScript** and **FastAPI**
+- 🧠 Build and orchestrate data pipelines using **Apache Spark**
+- ☁️ Explore the Azure ecosystem (**Storage**, **Data Factory**, **Databricks**, **Synapse**, etc.)
+- 📊 Analyze and visualize data with **Python** and **SQL**
+- 📚 Study deeply to master cloud, data engineering, and software architecture
+
+---
+
+## 📂 Featured Projects
+
+- **DoctorFinderPe**  
+  *A modern website, Typescript/React, to create an interface for people find doctors.*
+  
+---
+
+## 🛠 Tech Stack
+
+```yaml
+Languages:      TypeScript, Python, SQL
+Frameworks:     NestJS, FastAPI, PySpark
+Cloud:          Azure (Certified AZ-900), Databricks, Synapse
+Data:           Apache Spark, Power BI, Pandas
+Tools:          Git, Docker, Linux, VSCode
