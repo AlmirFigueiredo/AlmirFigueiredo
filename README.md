@@ -8,7 +8,7 @@ In my work time, I build software. In my free time, I’m plumbing data.
 <b>Programming Languages</b>
 </h2>
 
-<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlmirFigueiredo&layout=compact" width="235" alt="toplanguages"/></p>
+<p Typescript, Python and Java/></p>
 
 <h2 align="left">
 <b>Tools</b>
